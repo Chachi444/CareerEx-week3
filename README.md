@@ -41,9 +41,7 @@ Create variables to store your name, age, and nationality. Combine them into a s
 
 
 
-.
-
-Create three arrays:
+8.Create three arrays:
 
 
 

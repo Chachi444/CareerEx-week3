@@ -44,3 +44,24 @@ console.log("First favorite food: " + favoriteFoods[0]);
 favoriteFoods.unshift("Salad");
 favoriteFoods.push("Tacos"); 
 console.log("Updated favorite foods: " + favoriteFoods);
+
+/*8.Create three arrays:
+
+
+
+8.jssOne
+
+9.jssTwo
+
+10.jssThree
+
+
+
+Each array must contain 10 student names as string values.*/
+let jssOne = ["John", "Mary", "Peter", "Sarah", "David", "Emma", "Michael", "Sophia", "James", "Olivia"];
+let jssTwo = ["Liam", "Ava", "Noah", "Isabella", "Lucas", "Mia", "Ethan", "Charlotte", "Mason", "Amelia"];  
+let jssThree = ["Alexander", "Harper", "Benjamin", "Evelyn", "Daniel", "Abigail", "Matthew", "Ella", "Henry", "Scarlett"];
+
+console.log("JSS One: " + jssOne);
+console.log("JSS Two: " + jssTwo);  
+console.log("JSS Three: " + jssThree);
